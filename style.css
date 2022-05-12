@@ -1,0 +1,23 @@
+* {
+    font-family: 'Prompt', sans-serif;
+
+}
+
+main {
+    padding-top: 50px;
+}
+
+#link {
+    font-size: 25px;
+    color: #fff;
+    text-decoration: none;
+}
+
+#gh-logo {
+    height: 30px;
+    padding-bottom: 6px;
+}
+
+#send {
+    margin-bottom: 40px;
+}
